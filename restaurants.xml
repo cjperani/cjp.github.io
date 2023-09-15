@@ -1,4 +1,4 @@
-<!DOCTYPE restaurants SYSTEM "restaurants.dtd">
+<!-- <!DOCTYPE restaurants SYSTEM "restaurants.dtd"> -->
 <restaurants>
   <restaurant>
     <id>0</id>
